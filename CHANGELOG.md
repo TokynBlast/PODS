@@ -1,2 +1,2 @@
 ### v0.0.0
-<pre><img align='right' src='imgs/ver/'></pre>
+<pre>- First release, public<img align='right' src='imgs/ver/'></pre>
