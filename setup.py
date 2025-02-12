@@ -23,15 +23,14 @@ setup(
     version='0.1.0',
     description='JSON, but built for Python!',
     long_description=(open('README.md', encoding='utf-8').read() + '\n\n' +
-                      open('CHANGELOG.txt', encoding='utf-8').read() + '\n\n' +
-                      open('CHANGELOG_NOTES.txt', encoding='utf-8').read()), 
+                      open('CHANGELOG.md', encoding='utf-8').read() + '\n\n' +
     long_description_content_type='text/markdown',
     url='https://github.com/TokynBlast/PODS',
     author='Tokyn Blast',
     author_email='tokynblast@gmail.com',
     license='Bspace',
     classifiers=classifiers,
-    keywords='JSON variant, PODS, Data, Storage, Data storage',
+    keywords='variant, pods, data, storage, json, pod',
     packages=find_packages(),
     install_requires=[],
     python_requires="=3.13.2",
