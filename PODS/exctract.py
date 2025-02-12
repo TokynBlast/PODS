@@ -1,6 +1,10 @@
+"""
+Extracts data, from a POD
+"""
+
 import ast
 
-def extract_data_for_print(code):
+def extract(code):
     # Parse the code into an abstract syntax tree (AST)
     tree = ast.parse(code)
     
