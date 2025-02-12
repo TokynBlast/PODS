@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "release_date": "Feburary , 2025",
+  "pods_release": "March 15, 2024",
+  "py_req": "3.13.2",
+  "build": 1,
+  "bugs": {},
+  "hashes": {
+    "PODS/extract.py":"1bdf8bc38ba0dcd68bc89a7fc2772afcebb581c0017fc1225c1afaeb4ccf66b2"
+  }
+}
